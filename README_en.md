@@ -1,5 +1,7 @@
 # Beijing Government Message Board Analysis
 
+![Dashboard](效果图3.png)
+
 ## Project Overview
 
 This project analyzes citizen messages submitted to the **Beijing section of the People's Daily Online Leadership Message Board**.  
@@ -113,8 +115,7 @@ The project generates several types of visual outputs:
 
 ## Project Structure
 
-(image)
-
+![Dashboard](流程.png)
 
 ## Technologies
 
