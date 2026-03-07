@@ -1,5 +1,7 @@
 # 北京市政务留言板数据分析
 
+![Dashboard](效果图3.png)
+
 ## 项目简介
 
 本项目基于人民网 **领导留言板北京市版块** 的市民留言及政府回复数据，  
@@ -108,27 +110,8 @@
 - 空间分布地图
 
 ## 项目结构
-beijing-gov-message-analysis
-│
-├ data
-│ ├ raw
-│ └ processed
-│
-├ src
-│ ├ 数据预处理.py
-│ ├ 文本分析.py
-│ ├ 时间趋势分析.py
-│ ├ 空间分析.py
-│ └ 可视化.py
-│
-├ outputs
-│ ├ figures
-│ └ tables
-│
-├ web_visualization
-│
-└ report
-└ 项目报告.pdf
+
+![Dashboard](流程.png)
 
 ## 技术栈
 
