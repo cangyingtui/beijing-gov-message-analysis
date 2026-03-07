@@ -112,3 +112,22 @@ The project generates several types of visual outputs:
 - spatial distribution maps
 
 ## Project Structure
+
+(image)
+
+
+## Technologies
+
+Python  
+Pandas  
+Matplotlib  
+Seaborn  
+GeoPandas  
+Jieba NLP  
+WordCloud  
+NetworkX  
+
+## Author
+
+Nora Chen  
+Undergraduate Student in Data Science
