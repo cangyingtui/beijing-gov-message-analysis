@@ -124,7 +124,6 @@ Jieba
 WordCloud  
 NetworkX  
 
-## 作者
+# 作者
 
-陈怡彤
-数据科学专业本科生
+Chen Nora
